@@ -6,6 +6,7 @@ Below are the following exercises are to be completed by candidates prior to a f
 The starting code base can be found at: https://github.com/FinancialSoftwareLimited/TestAutomationExercise
 
 Exercise 1 (max 2hours)
+-----------------------
 Write an automated test for the following scenarios
 
 Scenario: Search by domain name
@@ -29,8 +30,10 @@ When I click on 'I'm feeling lucky'
 Then I am automatically redirected to 'http://example.com' in my web browser
 
 Exercise 2 (max 15mins)
+-----------------------
 Explain how these scenarios could be improved
 
 Exercise 3 (max 15mins)
+-----------------------
 Explain the Page Object Model design pattern, why you would use it
 - Bonus points for expaining when you would not use the Page Object Model design pattern
