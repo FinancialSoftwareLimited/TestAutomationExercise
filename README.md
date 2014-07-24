@@ -1,7 +1,7 @@
 FSL Test Automation Exercise
 ============================
 
-Below are the following exercises are to be completed by candidates prior to a face-to-face interview at FSL. The exercises are designed to be sort and should take no more than 2 hours to complete.
+Below are the following exercises are to be completed by candidates prior to a face-to-face interview at FSL. The exercises are designed to be sort and should take no more than 2 1/2 hours to complete.
 
 The starting code base can be found at: https://github.com/FinancialSoftwareLimited/TestAutomationExercise
 
