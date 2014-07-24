@@ -1,7 +1,7 @@
 FSL Test Automation Exercise
 ============================
 
-Below are the following exercises are to be completed by candidates prior to a face-to-face interview at FSL. The exercises are designed to be sort and should take no more than 2 1/2 hours to complete.
+The following exercises are to be completed by candidates prior to a face-to-face interview at FSL. The exercises are designed to be short and should take no more than 2 1/2 hours to complete.
 
 The starting code base can be found at: https://github.com/FinancialSoftwareLimited/TestAutomationExercise
 
@@ -43,6 +43,6 @@ Explain how these scenarios could be improved
 Exercise 3 (max 15mins)
 -----------------------
 
-Explain the Page Object Model design pattern, why you would use it
+Explain the Page Object Model design pattern and why you would use it
 
 - Bonus points for expaining when you would not use the Page Object Model design pattern
