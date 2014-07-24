@@ -9,39 +9,31 @@ Exercise 1 (max 2hours)
 -----------------------
 Write an automated test for the following scenarios
 
-Scenario: Search by domain name
+```
+>Scenario: Search by domain name
+>Given I have navigated to 'http://www.google.co.uk' in my web browser
+>And I have entered 'example.com' into the search box
+>When I click on 'Google Search'
+>Then I am presented with a list of results
+>And 'Example Domain' is the first result
+```
 
-Given I have navigated to 'http://www.google.co.uk' in my web browser
+```
+>Scenario: Search by keyword
+>Given I have navigated to 'http://www.google.co.uk' in my web browser
+>And I have entered 'example' into the search box
+>When I click on 'Google Search'
+>Then I am presented with a list of results
+>And 'Example Domain' is the fifth result
+```
 
-And I have entered 'example.com' into the search box
-
-When I click on 'Google Search'
-
-Then I am presented with a list of results
-
-And 'Example Domain' is the first result
-
-Scenario: Search by keyword
-
-Given I have navigated to 'http://www.google.co.uk' in my web browser
-
-And I have entered 'example' into the search box
-
-When I click on 'Google Search'
-
-Then I am presented with a list of results
-
-And 'Example Domain' is the fifth result
-
-Scenario: I'm feeling lucky
-
-Given I have navigated to 'http://www.google.co.uk' in my web browser
-
-And I have entered 'example' into the search box
-
-When I click on 'I'm feeling lucky'
-
-Then I am automatically redirected to 'http://example.com' in my web browser
+```
+>Scenario: I'm feeling lucky
+>Given I have navigated to 'http://www.google.co.uk' in my web browser
+>And I have entered 'example' into the search box
+>When I click on 'I'm feeling lucky'
+>Then I am automatically redirected to 'http://example.com' in my web browser
+```
 
 Exercise 2 (max 15mins)
 -----------------------
