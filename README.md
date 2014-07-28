@@ -5,6 +5,8 @@ The following exercises are to be completed by candidates prior to a face-to-fac
 
 The starting code base can be found at: https://github.com/FinancialSoftwareLimited/TestAutomationExercise
 
+Specflow and Selenium WebDriver nuget packages have been referenced.  You may need to install the Specflow Visual Studio extension - instructions can be found at http://www.specflow.org/getting-started/.
+
 Exercise 1 (max 2hours)
 -----------------------
 Write an automated test for the following scenarios
